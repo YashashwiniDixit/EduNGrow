@@ -16,7 +16,7 @@
 <div class="container bg-text" style="padding:0px 50px; margin:100px 0px;">
 	<div class="row">
         <div class="container-edit col-9" style="margin: 3px auto; background:white;">
-            <h1 style="text-align: center; color:rgb(1, 105, 105);" class="title">Edit Profile</h1>
+            <h1 style="text-align: center; color:rgb(128, 0, 128);" class="title">Edit Profile</h1>
             <div style="margin: 25px auto;">
                 <form action="/profile/<%=user._id%>?_method=PUT" method="POST" enctype="multipart/form-data">
                     <div class="form-group">
@@ -92,11 +92,11 @@
 							<div class="col-10">
 								<select class="custom-select" name ="college" class="form-control" value="<%=user.college%>" >
 									<option value="" disabled selected>College/School Name</option>
-									<option value="IGDTUW">IGDTUW</option>
-									<option value="DTU">DTU</option>
-									<option value="MAIT">MAIT</option>
-									<option value="IIT-Lucknow">IIT-Lucknow</option>
-									<option value="Delhi Public School">Delhi Public School</option>
+									<option value="VIT Chennai">VIT Chennai</option>
+									<option value="VIT Vellore">VIT Vellore</option>
+									<option value="IITB">IITB</option>
+									<option value="IITK">IITK</option>
+									<option value="KIIT">KIIT</option>
 								</select> 
 							</div>
 							<div class="col-2">

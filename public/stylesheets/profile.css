@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: rgb(1, 105, 105);
+    background-color: rgb(128, 0, 128);
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 
 .name {
     font-weight: 800;
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
 }
 
 .profile-img .file {
@@ -59,7 +59,7 @@ body {
 }
 
 .profile-head h6 {
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
 }
 
 .profile-edit-btn {
@@ -93,7 +93,7 @@ body {
 
         .profile-head .nav-tabs .nav-link.active {
             border: none;
-            border-bottom: 2px solid rgb(1, 105, 105);
+            border-bottom: 2px solid rgb(128, 0, 128);
         }
 
 .profile-work {
@@ -125,7 +125,7 @@ body {
 
 .profile-tab p {
     font-weight: 600;
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
 }
 
 .profilepost {
@@ -133,13 +133,13 @@ body {
 }
 
 a {
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
 }
 
 
 /*Edit Profile*/
 .save-btn {
-    background-image: linear-gradient(to bottom right, rgb(1, 105, 105), rgb(7, 163, 163));
+    background-image: linear-gradient(to bottom right, rgb(128, 0, 128), rgb(233, 145, 233));
     color: white;
     padding: 5px;
     font-size: 20px;
@@ -153,11 +153,11 @@ a {
     border-width: 1.5px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(1, 105, 105);
+    border-color: rgb(128, 0, 128);
 }
 
 .form-group label {
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
     font-weight: 700;
 }
 
@@ -166,7 +166,7 @@ a {
     margin-top: -4px;
     border-width: 0.5px;
     border-style: solid;
-    border-color: rgb(1, 105, 105);
+    border-color: rgb(128, 0, 128);
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
@@ -184,7 +184,7 @@ a {
 }
 
 .post-btn {
-    background-image: linear-gradient(to bottom right, rgb(1, 105, 105), rgb(7, 163, 163));
+    background-image: linear-gradient(to bottom right, rgb(128, 0, 128), rgb(233, 145, 233));
     color: white;
     padding: 5px;
     font-size: 12px;
@@ -199,7 +199,7 @@ a {
 #post-title {
     text-align: center;
     font-weight: 600;
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
     font-size: 18px;
 }
 
@@ -226,7 +226,7 @@ input[type="checkbox"] {
 }
 
 input:checked[type="checkbox"] {
-    background: rgb(1, 105, 105);
+    background: rgb(128, 0, 128);
 }
 
 input[type="checkbox"]:before {

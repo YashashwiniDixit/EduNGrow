@@ -3,14 +3,14 @@
 }
 
 .leftimg {
-    background-image: url(/images/images1.jpg);
+    background-image: url(/images/login1.jpeg);
     background-size: 280px 418px;
     height: 400px;
     width: 325px;
 }
 
 .rightform {
-    background-color: rgb(7, 97, 97);
+    background-color: rgb(128, 0, 128);
     height: 400px;
     width: 325px;
 }
@@ -27,8 +27,8 @@
     border-width: 10px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(8, 8, 77);
-    box-shadow: cadetblue;
+    border-color: rgb(0, 0, 0);
+    box-shadow: rgb(191, 27, 197);
 }
 
 .gradient-button {
@@ -40,7 +40,7 @@
     text-transform: uppercase;
     transition: 0.5s;
     background-size: 200% auto;
-    color: darkcyan;
+    color: purple;
     box-shadow: 0 0 20px;
     border-radius: 10px;
     width: 150px;

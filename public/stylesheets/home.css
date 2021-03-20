@@ -17,7 +17,7 @@ body {
     font-size: 60px;
     font-weight: 800;
     /* color: #396971; */
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
     text-shadow: 4px 4px rgba(0, 0, 0, 0.15);
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ body {
 }
 
 .car_caption {
-    background-color: #396971d2;
+    background-color: #d637bcd2;
     color: white;
     padding-left: 5px;
     padding-right: 5px;
@@ -78,7 +78,7 @@ body {
 }
 
 .collegelist {
-    background-image: linear-gradient(to bottom right, rgb(1, 105, 105), rgb(7, 163, 163));
+    background-image: linear-gradient(to bottom right, rgb(128, 0, 128), rgb(233, 145, 233));
     height: 450px;
     width: 300px;
     margin: 10px;
@@ -111,7 +111,7 @@ body {
 }
 
 .Colleges {
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
     font-weight: bolder;
     text-shadow: 3px 3px rgba(0, 0, 0, 0.15);
 }

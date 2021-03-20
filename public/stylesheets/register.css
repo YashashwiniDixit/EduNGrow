@@ -9,12 +9,12 @@ body, html {
 
 h3 b {
     color: black;
-    -webkit-text-stroke: 1.2px rgb(1, 105, 105);
+    -webkit-text-stroke: 1.2px rgb(128, 0, 128);
 }
 
 .bg-image {
     /* The image used */
-    background-image: linear-gradient(to top left, rgba(89, 105, 196, 0.52), #598d4cba);
+    background-image: linear-gradient(to top left, rgb(128, 0, 128, 0.52), #ee8dd9ba);
     /* Full height */
     height: 100%;
     /* Center and scale the image nicely */
@@ -27,8 +27,8 @@ h3 b {
     border-width: 1.5px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(1, 105, 105);
-    box-shadow: cadetblue;
+    border-color: rgb(128, 0, 128);
+    box-shadow: rgb(144, 40, 185);
 }
 
 .gradient-button {
@@ -58,7 +58,7 @@ h3 b {
     }
 
 .gradient-button-1 {
-    background-image: linear-gradient(to bottom right, rgb(1, 105, 105), rgb(7, 163, 163));
+    background-image: linear-gradient(to bottom right, rgb(128, 0, 128), rgb(233, 145, 233));
 }
 
     .gradient-button-1:hover {
@@ -66,7 +66,7 @@ h3 b {
     }
 
 .bg-text {
-    color: rgb(1, 105, 105);
+    color: rgb(128, 0, 128);
     text-shadow: 4px 4px rgba(0, 0, 0, 0.15);
     position: absolute;
     top: 50%;
